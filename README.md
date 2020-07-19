@@ -5,9 +5,8 @@ a mini project that could be big
 
 Things to do
 - Create mini website
-	- index.html
-	- styles.css
-	- script.js
+	[x] html boilerplate
+	[x] style with bootstrap
 
 - Host website
-	- purchase domain
+	[] purchase domain
